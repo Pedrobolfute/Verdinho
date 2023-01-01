@@ -54,8 +54,8 @@ func-commit(){
   done
 
   ##Aqui.
-  date -s "feb 19 15:40"
-  chown -R pedro:pedro $caminhoDir/*
+  date -s "feb 19 15:47"
+  chown -R $meuUser:$meuUser $caminhoDir/*
 }
 
-func-commit >> logCommits
+func-commit >> logCommitsEvent
