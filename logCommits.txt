@@ -4,3 +4,7 @@ dom 01 jan 2023 00:00:00 -03
  create mode 100644 commits/evento-1-1/arquivo1
  create mode 100644 logCommits.txt
 seg 02 jan 2023 00:00:00 -03
+[main d71ee5f] 2 JAN
+ 2 files changed, 6 insertions(+)
+ create mode 100644 commits/evento-2-1/arquivo2
+ter 03 jan 2023 00:00:00 -03
