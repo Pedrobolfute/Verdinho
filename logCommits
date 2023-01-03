@@ -338,3 +338,7 @@ dom 01 jan 2023 00:00:00 -03
  delete mode 100644 log
  create mode 100644 logCommits
 seg 02 jan 2023 00:00:00 -03
+[main 9b4039f] 2 JAN
+ 2 files changed, 340 insertions(+)
+ create mode 100644 evento1/evento-2-1/arquivo2
+ter 03 jan 2023 00:00:00 -03
