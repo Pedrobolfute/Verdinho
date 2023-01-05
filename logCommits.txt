@@ -12,3 +12,7 @@ ter 03 jan 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-3-1/arquivo3
 qua 04 jan 2023 00:00:00 -03
+[main 7324ce9] 4 JAN
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-4-1/arquivo4
+qui 05 jan 2023 00:00:00 -03
