@@ -12,7 +12,7 @@ do
     
     mkdir evento-$j-$i
     echo "Pedrobolfute $j / $i / 2023" >> evento-$j-$i/arquivo$j
-    
+     
     git add .
     git commit -m "$j ${meses[$i]}"
     git push origin main
