@@ -1,8 +1,8 @@
 #!/bin/bash
 
-meses=(JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)
+meses=(EMPTY JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)
 
-for i in $(seq 11);
+for i in $(seq 12);
 do 
   if [ "${meses[$i]}" = "JAN" ] || [ "${meses[$i]}" = "MAR" ] || [ "${meses[$i]}" = "MAY" ] || [ "${meses[$i]}" = "JUL" ] || [ "${meses[$i]}" = "AUG" ] || [ "${meses[$i]}" = "OCT" ] || [ "${meses[$i]}" = "DEC" ]
   then
@@ -10,8 +10,8 @@ do
     do
     sudo date -s "${meses[$i]} $j"
     
-    mkdir evento-$j-$i
-    echo "Pedrobolfute $j / $i / 2023" >> evento-$j-$i/arquivo$j
+    mkdir -p evento/evento-$j-$i
+    echo "Pedrobolfute $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
      
     git add .
     git commit -m "$j ${meses[$i]}"
@@ -23,8 +23,8 @@ do
     do
     sudo date -s "${meses[$i]} $j"
     
-    mkdir evento-$j-$i
-    echo "Pedrobolfute $j / $i / 2023" >> evento-$j-$i/arquivo$j
+    mkdir -p evento/evento-$j-$i
+    echo "Pedrobolfute $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
     
     git add .
     git commit -m "$j ${meses[$i]}"
@@ -36,8 +36,8 @@ do
     do
     sudo date -s "${meses[$i]} $j"
     
-    mkdir evento-$j-$i
-    echo "Pedrobolfute $j / $i / 2023" >> evento-$j-$i/arquivo$j
+    mkdir -p evento/evento-$j-$i
+    echo "Pedrobolfute $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
     
     git add .
     git commit -m "$j ${meses[$i]}"
