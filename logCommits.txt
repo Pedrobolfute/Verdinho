@@ -68,3 +68,7 @@ ter 17 jan 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-17-1/arquivo17
 qua 18 jan 2023 00:00:00 -03
+[main 3c6706a] 18 JAN
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-18-1/arquivo18
+qui 19 jan 2023 00:00:00 -03
