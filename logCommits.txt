@@ -104,3 +104,7 @@ qui 26 jan 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-26-1/arquivo26
 sex 27 jan 2023 00:00:00 -03
+[main c67d3bf] 27 JAN
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-27-1/arquivo27
+sáb 28 jan 2023 00:00:00 -03
