@@ -1,5 +1,6 @@
 #!/bin/bash
 
+func-commit(){
 caminhoDir="/home/pedro/workspace/Verdinho"
 meses=(JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)
 
@@ -55,3 +56,5 @@ done
 date -s "feb 19 15:10"
 
 chown -R pedro:pedro $caminhoDir/*
+}
+func-commit >> log
