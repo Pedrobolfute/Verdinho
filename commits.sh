@@ -1,6 +1,6 @@
 #!/bin/bash
 
-caminhoDir="$HOME/workspace/Verdinho"
+caminhoDir="/home/pedro/workspace/Verdinho"
 meses=(JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)
 
 for i in $(seq 1 12);
@@ -12,9 +12,9 @@ do
     sudo date -s "${meses[$i]} $j"
     
     mkdir -p $caminhoDir/evento1/evento-$j-$i
-    echo "PedrobolfuteFix $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
+    echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento1/evento-$j-$i/arquivo$j
 
-    cd $caminhoDir 
+    cd $caminhoDir
     git add .
     git commit -m "$j ${meses[$i]}"
     git push origin main
@@ -26,7 +26,7 @@ do
     sudo date -s "${meses[$i]} $j"
     
     mkdir -p $caminhoDir/evento1/evento-$j-$i
-    echo "PedrobolfuteFix $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
+    echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento1/evento-$j-$i/arquivo$j
     
     cd $caminhoDir 
     git add .
@@ -40,7 +40,7 @@ do
     sudo date -s "${meses[$i]} $j"
     
     mkdir -p $caminhoDir/evento1/evento-$j-$i
-    echo "PedrobolfuteFix $j / $i / 2023" >> evento/evento-$j-$i/arquivo$j
+    echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento1/evento-$j-$i/arquivo$j
     
     cd $caminhoDir 
     git add .
