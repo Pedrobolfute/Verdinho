@@ -17,7 +17,7 @@ do
     cd $caminhoDir
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin main
+    ##git push origin main
     done
   elif [ "${meses[$i]}" = "APR" ] || [ "${meses[$i]}" = "JUN" ] || [ "${meses[$i]}" = "SEP" ] || [ "${meses[$i]}" = "NOV" ]
   then
@@ -31,7 +31,7 @@ do
     cd $caminhoDir 
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin main
+    ##git push origin main
     done
   elif [ "${meses[$i]}" = "FEB" ]
   then
@@ -45,11 +45,13 @@ do
     cd $caminhoDir 
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin main
+    ##git push origin main
     done
   else
   echo "Error dentro do IF!"
   fi
 done
 
-date -s "date -s "feb 19 14:10"
+date -s "feb 19 15:10"
+
+chown -R pedro:pedro $caminhoDir/*
