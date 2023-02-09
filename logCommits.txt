@@ -152,3 +152,7 @@ ter 07 fev 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-7-2/arquivo7
 qua 08 fev 2023 00:00:00 -03
+[main ef5d9af] 8 FEB
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-8-2/arquivo8
+qui 09 fev 2023 00:00:00 -03
