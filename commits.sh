@@ -15,8 +15,8 @@ func-commit(){
       do
       sudo date -s "${meses[$i]} $j"
 
-      mkdir -p $caminhoDir/evento/evento-$j-$i
-      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento/evento-$j-$i/arquivo$j
+      mkdir -p $caminhoDir/commits/evento-$j-$i
+      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/commits/evento-$j-$i/arquivo$j
 
       cd $caminhoDir
       git add .
@@ -28,8 +28,8 @@ func-commit(){
       do
       sudo date -s "${meses[$i]} $j"
 
-      mkdir -p $caminhoDir/evento/evento-$j-$i
-      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento/evento-$j-$i/arquivo$j
+      mkdir -p $caminhoDir/commits/evento-$j-$i
+      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/commits/evento-$j-$i/arquivo$j
 
       cd $caminhoDir 
       git add .
@@ -41,8 +41,8 @@ func-commit(){
       do
       sudo date -s "${meses[$i]} $j"
 
-      mkdir -p $caminhoDir/evento/evento-$j-$i
-      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/evento/evento-$j-$i/arquivo$j
+      mkdir -p $caminhoDir/commits/evento-$j-$i
+      echo "PedrobolfuteFix $j / $i / 2023" >> $caminhoDir/commits/evento-$j-$i/arquivo$j
 
       cd $caminhoDir 
       git add .
