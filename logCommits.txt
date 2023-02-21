@@ -200,3 +200,7 @@ dom 19 fev 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-19-2/arquivo19
 seg 20 fev 2023 00:00:00 -03
+[main 9cbaffe] 20 FEB
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-20-2/arquivo20
+ter 21 fev 2023 00:00:00 -03
