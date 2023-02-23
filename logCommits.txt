@@ -208,3 +208,7 @@ ter 21 fev 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-21-2/arquivo21
 qua 22 fev 2023 00:00:00 -03
+[main d17b701] 22 FEB
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-22-2/arquivo22
+qui 23 fev 2023 00:00:00 -03
