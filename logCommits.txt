@@ -220,3 +220,7 @@ sex 24 fev 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-24-2/arquivo24
 sáb 25 fev 2023 00:00:00 -03
+[main d8e7ed7] 25 FEB
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-25-2/arquivo25
+dom 26 fev 2023 00:00:00 -03
