@@ -15,7 +15,7 @@ do
     
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin master
+    git push origin main
     done
   elif [ "${meses[$i]}" = "APR" ] || [ "${meses[$i]}" = "JUN" ] || [ "${meses[$i]}" = "SEP" ] [ "${meses[$i]}" = "NOV" ]
   then
@@ -28,7 +28,7 @@ do
     
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin master
+    git push origin main
     done
   elif [ "${meses[$i]}" = "FEV" ]
   then
@@ -41,7 +41,7 @@ do
     
     git add .
     git commit -m "$j ${meses[$i]}"
-    git push origin master
+    git push origin main
     done
   else
   echo "Error dentro do IF!"
