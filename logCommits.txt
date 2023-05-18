@@ -544,3 +544,7 @@ ter 16 mai 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-16-5/arquivo16
 qua 17 mai 2023 00:00:00 -03
+[main 493bdeb] 17 MAY
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-17-5/arquivo17
+qui 18 mai 2023 00:00:00 -03
