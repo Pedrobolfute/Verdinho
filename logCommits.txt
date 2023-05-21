@@ -556,3 +556,7 @@ sex 19 mai 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-19-5/arquivo19
 sáb 20 mai 2023 00:00:00 -03
+[main 188f73d] 20 MAY
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-20-5/arquivo20
+dom 21 mai 2023 00:00:00 -03
