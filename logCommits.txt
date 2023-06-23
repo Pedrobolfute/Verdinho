@@ -688,3 +688,7 @@ qua 21 jun 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-21-6/arquivo21
 qui 22 jun 2023 00:00:00 -03
+[main a047833] 22 JUN
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-22-6/arquivo22
+sex 23 jun 2023 00:00:00 -03
