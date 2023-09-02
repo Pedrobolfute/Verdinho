@@ -972,3 +972,7 @@ qui 31 ago 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-31-8/arquivo31
 sex 01 set 2023 00:00:00 -03
+[main 90d7d44] 1 SEP
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-1-9/arquivo1
+sáb 02 set 2023 00:00:00 -03
