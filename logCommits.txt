@@ -1080,3 +1080,7 @@ qua 27 set 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-27-9/arquivo27
 qui 28 set 2023 00:00:00 -03
+[main 4f28ef8] 28 SEP
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-28-9/arquivo28
+sex 29 set 2023 00:00:00 -03
