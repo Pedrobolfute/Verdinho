@@ -1120,3 +1120,7 @@ sáb 07 out 2023 00:00:00 -03
  2 files changed, 5 insertions(+)
  create mode 100644 commits/evento-7-10/arquivo7
 dom 08 out 2023 00:00:00 -03
+[main 0379ec0] 8 OCT
+ 2 files changed, 5 insertions(+)
+ create mode 100644 commits/evento-8-10/arquivo8
+seg 09 out 2023 00:00:00 -03
